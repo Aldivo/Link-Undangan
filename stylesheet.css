@@ -1,0 +1,14 @@
+h1 {color: #ff0000;
+}
+
+.tulisan {color:azure}
+
+.form {
+    color:black;
+    padding:12px 24px;
+    text-align:center;
+}
+
+* {
+    box-sizing: border-box;
+}
