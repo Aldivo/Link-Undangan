@@ -1,14 +1,51 @@
-h1 {color: #ff0000;
-}
-
-.tulisan {color:azure}
-
-.form {
-    color:black;
-    padding:12px 24px;
-    text-align:center;
-}
-
 * {
     box-sizing: border-box;
+  }
+  
+  body {
+    margin: 0;
+    font-family: "Lucida Grande";
+    padding: 5px 5px 5px 5px;
+    background-image: url(https://image-cdn.medkomtek.com/1LI4T099t3Hn_njTVC3PIEQkvGk=/1200x675/smart/klikdokter-media-buckets/medias/2317735/original/074066400_1597146330-Tips-dari-Psikolog-Agar-Pernikahan-Kedua-Sukses-dan-Langgeng-shutterstock_1504072184.jpg);
+  }
+
+  .tulisan-atas {
+    padding-top: 20px;
+    text-align: center;
+    color:white;
+  }
+
+.top-wrapper {
+    padding-top: 50px;
+    background-size:cover;
+    color: rgb(255, 255, 255);
+    text-align: center;
 }
+
+.tulisan {
+
+    padding: 0 15px;
+    margin: 0 auto;
+    text-align: center;
+  }
+
+.form {
+    padding: 12px 24px;
+    background-color: antiquewhite;
+    border-radius: 10px;
+    -webkit-user-drag: auto;
+  }
+
+  footer {
+    
+    padding-top: 100px;
+      padding-bottom: 100px;
+    
+      text-align: center;
+
+      color:rgb(255, 255, 255);
+  }
+
+  span {
+    background-color: rgba(0, 0, 0, 0.342);
+  }
