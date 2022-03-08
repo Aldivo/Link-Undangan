@@ -6,6 +6,7 @@
     margin: 0;
     font-family: "Lucida Grande";
     padding: 5px 5px 5px 5px;
+    background-image: url(https://image-cdn.medkomtek.com/1LI4T099t3Hn_njTVC3PIEQkvGk=/1200x675/smart/klikdokter-media-buckets/medias/2317735/original/074066400_1597146330-Tips-dari-Psikolog-Agar-Pernikahan-Kedua-Sukses-dan-Langgeng-shutterstock_1504072184.jpg);
     background-size:cover;
   }
 
@@ -49,8 +50,4 @@
 
   span {
     background-color: rgba(0, 0, 0, 0.342);
-  }
-
-  html {
-    background-image: url(https://image-cdn.medkomtek.com/1LI4T099t3Hn_njTVC3PIEQkvGk=/1200x675/smart/klikdokter-media-buckets/medias/2317735/original/074066400_1597146330-Tips-dari-Psikolog-Agar-Pernikahan-Kedua-Sukses-dan-Langgeng-shutterstock_1504072184.jpg);
   }
